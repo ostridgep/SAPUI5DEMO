@@ -4,7 +4,7 @@
     <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.pjo.sapui5demo"
-        version   = "1.150815.1700">
+        version   = "1.150815.1800">
 
     <name>UI5ControlsDemo</name>
     <description>
