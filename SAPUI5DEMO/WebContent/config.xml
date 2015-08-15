@@ -3,12 +3,12 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
     <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.pjo.myabsences"
-        version   = "1.150806.1900">
+        id        = "com.pjo.sapui5demo"
+        version   = "1.150815.1700">
 
-    <name>MyAbsence</name>
+    <name>UI5ControlsDemo</name>
     <description>
-        UI5 MyAbsence.
+        UI5 Demo Controls.
     </description>
 
     <author href="#" email="Paul@ostridge.com">
